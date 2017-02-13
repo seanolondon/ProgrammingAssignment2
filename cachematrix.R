@@ -39,7 +39,7 @@ cacheSolve <- function(x, ...) {
 ## TESTING: use the following code in the console to test
 
 ## creates a square matrix:
-##testmatrix <- matrix(1:4, 3, 3)
+##testmatrix <- matrix(1:4, 2, 2)
 
 ##assiging the makeCacheMatrix function to a testing oject runtest:
 ##runtest <- makeCacheMatrix(testmatrix)
